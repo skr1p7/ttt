@@ -22,3 +22,6 @@ To run the script, use the following command
 ```bash
 $ python3 auto.py
 ```
+
+### Sample image 
+![image](sample.png)
